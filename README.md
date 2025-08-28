@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on **Chatchee**
 
 <h3 align="left">Connect with me:</h3>
+mohammadmghig@gmail.com
 <p align="left">
 </p>
 
